@@ -1,4 +1,4 @@
-package api;
+package api.pojo;
 
 public class UserData {
     private Integer id;

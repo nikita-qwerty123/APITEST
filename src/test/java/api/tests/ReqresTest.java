@@ -1,6 +1,7 @@
-package api;
+package api.tests;
 
-import io.restassured.http.ContentType;
+import api.pojo.*;
+import api.spec.Specifications;
 import org.junit.Assert;
 import org.junit.Test;
 

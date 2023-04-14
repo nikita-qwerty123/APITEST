@@ -1,4 +1,4 @@
-package api;
+package api.pojo;
 
 public class UserTime {
     private String name;
